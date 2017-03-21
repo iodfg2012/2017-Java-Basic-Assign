@@ -22,6 +22,6 @@ public class Average { 
 			else n++;
 		}
         
-        System.out.println("합: " + sum + ", 평균: " + sum/size);
+        System.out.println("합: " + sum + ", 평균: " + sum/n);
     }
 }
